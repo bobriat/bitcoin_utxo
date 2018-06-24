@@ -2,12 +2,12 @@
 Bitcoin Utxo
 
 
-##Requirements
+## Requirements
 pip install -r requirements
 
 
 
-##Run
+## Run
 
 Find and retrieve any unsspent outouts on Blockchain.info API for a bitcoin address"
 Call the program by calling "python bitcoin_utxo/find.py"
